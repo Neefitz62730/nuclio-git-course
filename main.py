@@ -1,1 +1,1 @@
-print("hello word")
+Print ("hello Word")
